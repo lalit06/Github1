@@ -4,11 +4,9 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.24.3]",
-    "UiPath.Mail.Activities": "[1.23.11]",
-    "UiPath.System.Activities": "[24.11.0-preview]",
+    "UiPath.System.Activities": "[24.3.1]",
     "UiPath.Testing.Activities": "[24.10.3]",
-    "UiPath.UIAutomation.Activities": "[24.11.1-preview]"
+    "UiPath.UIAutomation.Activities": "[24.10.3]"
   },
   "webServices": [],
   "entitiesStores": [],
