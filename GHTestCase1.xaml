@@ -82,10 +82,18 @@
       <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="GHTestCase1" sap:VirtualizedContainerService.HintSize="801.9999999999999,616.6666666666666" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="GHTestCase1" sap:VirtualizedContainerService.HintSize="1192,616.6666666666666" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
-      <Variable x:TypeArguments="x:String" Name="strName" />
-      <Variable x:TypeArguments="x:String" Name="strMessage" />
+      <Variable x:TypeArguments="x:String" Name="strName">
+        <Variable.Default>
+          <Literal x:TypeArguments="x:String">Lalit</Literal>
+        </Variable.Default>
+      </Variable>
+      <Variable x:TypeArguments="x:String" Name="strMessage">
+        <Variable.Default>
+          <Literal x:TypeArguments="x:String" Value="" />
+        </Variable.Default>
+      </Variable>
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
