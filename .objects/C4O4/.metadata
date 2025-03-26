@@ -1,0 +1,12 @@
+﻿{
+  "Name": "OneStream",
+  "Type": "App",
+  "Id": "C4O4RvbKdUSZskuE4z2osg",
+  "Reference": "4SNoDv7O3Eek_40J49Q8lQ/C4O4RvbKdUSZskuE4z2osg",
+  "Created": "2025-03-26T12:43:46.2446684Z",
+  "Updated": "2025-03-26T12:43:46.2446684Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

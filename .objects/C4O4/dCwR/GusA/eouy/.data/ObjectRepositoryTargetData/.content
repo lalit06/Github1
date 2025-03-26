@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="s31jmwahok68NNixoGvx7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="e905f47c-6182-42b5-94f8-88f1adcc8b44" CvElementArea="30, 538, 177, 40" CvTextArea="40, 549, 156, 22" CvTextArgument="Open Application" CvType="Button" DesignTimeRectangle="42, 545, 154, 27" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;ctrl automationid='dockLayoutManager' /&gt;&lt;ctrl automationid='pagesDocumentGroup' /&gt;&lt;ctrl automationid='Logon (8.4.1.16903)' /&gt;&lt;ctrl automationid='radButton' name='Open Application' role='push button' /&gt;&lt;ctrl name='Open Application' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='dockLayoutManager' /&gt;&lt;ctrl automationid='pagesDocumentGroup' /&gt;&lt;ctrl automationid='Logon (8.4.1.16903)' /&gt;&lt;ctrl automationid='radButton' name='Open Application' role='push button' /&gt;&lt;ctrl name='Open Application' role='text' automationid='' check:text='Open Application' /&gt;" Guid="1ad77e96-24ab-44ae-b6f9-6ad72b41d590" ScopeSelectorArgument="&lt;wnd app='onestreamdesktop.exe' cls='HwndWrapper*' title='OneStream' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e905f47c-6182-42b5-94f8-88f1adcc8b44" CvElementArea="30, 538, 177, 40" CvTextArea="40, 549, 156, 22" CvTextArgument="Open Application" CvType="Button" DesignTimeRectangle="33, 541, 172, 36" ElementType="Button" FullSelectorArgument="&lt;ctrl automationid='dockLayoutManager' /&gt;&lt;ctrl automationid='pagesDocumentGroup' /&gt;&lt;ctrl automationid='Logon (8.4.1.16903)' /&gt;&lt;ctrl automationid='radButton' name='Open Application' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='dockLayoutManager' /&gt;&lt;ctrl automationid='pagesDocumentGroup' /&gt;&lt;ctrl automationid='Logon (8.4.1.16903)' /&gt;&lt;ctrl automationid='radButton' name='Open Application' role='push button' check:text='Open Application' /&gt;" Guid="9b0586c8-9f91-48c8-98f1-462d8496c537" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="efaa0f9f29c11945353ebe6999fe03ec.png" xmlns="">0k2VrRL7sokukRSgfUOzYWg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

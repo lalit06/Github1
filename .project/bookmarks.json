@@ -1,0 +1,15 @@
+{
+  "Value": {
+    "Test.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "6c1de7fb-629a-47cc-bf04-15ab8df46df7",
+        "ActivityIdRef": "Assign_4",
+        "ActivityId": "1.242",
+        "ActivityName": "Assign",
+        "IsTransient": false
+      }
+    ]
+  }
+}

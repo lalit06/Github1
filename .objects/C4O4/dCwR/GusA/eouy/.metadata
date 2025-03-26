@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Open Application'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "eouyzKRRP06JfhDGJkZAcg",
+  "Reference": "4SNoDv7O3Eek_40J49Q8lQ/eouyzKRRP06JfhDGJkZAcg",
+  "ParentRef": "4SNoDv7O3Eek_40J49Q8lQ/GusAJm9BQ0awMj0l9ZHtPg",
+  "Created": "2025-03-26T12:43:47.0080304Z",
+  "Updated": "2025-03-26T12:43:47.0080304Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

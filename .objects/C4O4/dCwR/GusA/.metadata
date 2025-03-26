@@ -1,0 +1,13 @@
+﻿{
+  "Name": "OneStream",
+  "Type": "Screen",
+  "Id": "GusAJm9BQ0awMj0l9ZHtPg",
+  "Reference": "4SNoDv7O3Eek_40J49Q8lQ/GusAJm9BQ0awMj0l9ZHtPg",
+  "ParentRef": "4SNoDv7O3Eek_40J49Q8lQ/dCwRIKaY50-1RIDSIZUdCA",
+  "Created": "2025-03-26T12:43:46.4591083Z",
+  "Updated": "2025-03-26T12:43:46.4591083Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
